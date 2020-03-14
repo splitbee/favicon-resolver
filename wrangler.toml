@@ -1,0 +1,7 @@
+name = "favicon"
+
+type = "javascript"
+account_id = ""
+zone_id = ""
+
+workers_dev = true
