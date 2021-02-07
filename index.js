@@ -52,6 +52,8 @@ async function handleRequest(request) {
     return new Response(favicon)
   }
 
+  if (favicon.startsWith('data:image/svg+xml')) return new Response(favicon)
+
   const icon = await fetch(favicon)
   return icon
 }
