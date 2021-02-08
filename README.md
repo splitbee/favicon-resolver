@@ -4,10 +4,10 @@
 
 `https://favicon.splitbee.io/?url=workers.cloudflare.com`
 
-![Cloudflare Worker Favicon](https://favicon.splitbee.io/?url=workers.cloudflare.com)
-![Splitbee](https://favicon.splitbee.io/?url=splitbee.io)
-![Feedback Fish](https://favicon.splitbee.io/?url=feedback.fish)
-![Stripe](https://favicon.splitbee.io/?url=stripe.com)
+![Cloudflare Worker Favicon](https://favicon.splitbee.io/?url=workers.cloudflare.com | width=25)
+![Splitbee](https://favicon.splitbee.io/?url=splitbee.io | width=25)
+![Feedback Fish](https://favicon.splitbee.io/?url=feedback.fish | width=25)
+![Stripe](https://favicon.splitbee.io/?url=stripe.com | width=25)
 
 ## Deploy
 
